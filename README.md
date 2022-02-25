@@ -16,7 +16,7 @@ Vous pouvez obtenir une picohe en réalisant cette commande (seulement pour les 
 ## 🎓 **Vous avez besoin d'aide ?**
 
 - [Mon Discord](https://discord.gg/8SfwgQqQxh)
-- [Documentation](https://github.com/MaxouLeKangou/Wand-SK/blob/main/documentation.md)
+- [Documentation](https://github.com/MaxouLeKangou/Pickaxe-SK/blob/main/documentation.md)
 
 _Je remercie toutes les personnes qui téléchargerons et aiderons à améliorer ce code !_
 > Cette page a été repris de celle de [ZorgBtw](https://github.com/ZorgBtw/BungeeSK)
