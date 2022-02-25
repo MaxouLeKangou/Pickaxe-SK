@@ -7,7 +7,7 @@ Vous pouvez ensuite mettre ce code dans votre dossier `plugins/Skript/scripts`.<
 Évidement, il vous faudra le plugin [Skript](https://github.com/SkriptLang/Skript/releases). Vous n'avez plus qu'à redémarrer votre serveur ou executer la commande `/sk reload Mascots-SK`.<br />
 Il vous faudra certainement d'autres plugins. Au besoin, je peux vous transmettre un dossier serveur avec tous mes plugins en me contactant sur discord.
 
-## 👀 **Comment utiliser correctement Wand-SK ?**
+## 👀 **Comment utiliser correctement Pickaxe-SK ?**
 Vous pouvez obtenir une picohe en réalisant cette commande (seulement pour les joueurs op) : <br />
 ```
 /pickaxe
